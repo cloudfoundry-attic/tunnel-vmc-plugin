@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/cloudfoundry/tunnel-vmc-plugin.png)](https://travis-ci.org/cloudfoundry/tunnel-vmc-plugin)
+[![Gem Version](https://badge.fury.io/rb/tunnel-vmc-plugin.png)](http://badge.fury.io/rb/tunnel-vmc-plugin)
 
 ## Deprecated
 VMC and its plugins have been renamed. You can find the current version of the code for this gem at
